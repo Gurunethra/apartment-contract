@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "skipLibCheck": true,
+    "noEmit": true
+  },
+  "include": ["./**/*.js"],
+  "exclude": ["../frontend", "../frontend/**", "node_modules"]
+}
