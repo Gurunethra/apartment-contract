@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Logs
+*.log
+
+# Environment files (never upload secrets)
+.env
+frontend/.env
+backend/.env
+
+# Uploads (uploaded files like images)
+uploads/
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Next.js build folder
+frontend/.next
